@@ -1,0 +1,33 @@
+1. Syntax
+2. Comments
+3. Varibales
+4. Data Types
+5. Numbers
+6. Casting
+7. Strings
+8. Booleans
+9. Operators
+10. Lists
+11. Tuples
+12. Sets
+13. Dictionaries
+14. Lambda
+15. Functions
+16. Function Parameters
+17. Arrays
+18. Classes and Objects
+19. Inheritance
+20. Iterators
+21. Polymorphism
+22. Scope
+23. Modules
+24. Dates
+25. Math
+26. Try...Except
+27. User Input
+28. String Formatting
+29. File Handling
+30. Reading Files
+31. Writing and Creating Files
+32. Delete Files
+33. Formatting
