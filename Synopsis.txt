@@ -11,9 +11,9 @@
 11. Tuples
 12. Sets
 13. Dictionaries
-14. Lambda
-15. Functions
-16. Function Parameters
+14. Functions
+15. Function Parameters
+16. Lambdas
 17. Arrays
 18. Classes and Objects
 19. Inheritance
