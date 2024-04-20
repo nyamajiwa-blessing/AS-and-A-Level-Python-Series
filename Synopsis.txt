@@ -15,19 +15,22 @@
 15. Function Parameters
 16. Lambdas
 17. Arrays
-18. Classes and Objects
-19. Inheritance
-20. Iterators
-21. Polymorphism
-22. Scope
-23. Modules
-24. Dates
-25. Math
-26. Try...Except
-27. User Input
-28. String Formatting
-29. File Handling
-30. Reading Files
-31. Writing and Creating Files
-32. Delete Files
-33. Formatting
+18. Conditionals
+19. Boolean Operators
+20. Loops
+21. Classes and Objects
+22. Inheritance
+23. Iterators
+24. Polymorphism
+25. Scope
+26. Modules
+27. Dates
+28. Math
+29. Try...Except
+30. User Input
+31. String Formatting
+32. File Handling
+33. Reading Files
+34. Writing and Creating Files
+35. Delete Files
+36. Formatting
