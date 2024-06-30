@@ -30,7 +30,3 @@
 30. User Input
 31. String Formatting
 32. File Handling
-33. Reading Files
-34. Writing and Creating Files
-35. Delete Files
-36. Formatting
