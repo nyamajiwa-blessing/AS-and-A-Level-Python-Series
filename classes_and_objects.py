@@ -24,3 +24,34 @@ print()
 c3.display_info()
 
 
+# Composite data type: Class
+class Student:
+    def __init__(self, name, age, gpa):
+        self.name = name    # string
+        self.age = age      # integer
+        self.gpa = gpa      # float
+
+    def display_info(self):
+        print("Name:", self.name)
+        print("Age:", self.age)
+        print("GPA:", self.gpa)
+
+
+# Creating an object
+s1 = Student("Alice", 20, 3.6)
+s1.display_info()
+
+class Car:
+    def __init__(self, color, speed):
+        self.color = color
+        self.speed = speed
+
+    def accelerate(self):
+        self.speed += 10
+
+car1 = Car("Red", 50)   # Object
+car2 = Car("Blue", 0)   # Object
+
+car1.accelerate()
+print(car1.speed)  # 60
+
