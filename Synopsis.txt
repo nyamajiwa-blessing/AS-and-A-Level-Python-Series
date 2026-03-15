@@ -20,7 +20,7 @@
 20. Loops
 21. Classes and Objects
 22. Inheritance
-23. Iterators
+23. Match-Case
 24. Polymorphism
 25. Scope
 26. Modules
