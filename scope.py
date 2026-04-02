@@ -1,20 +1,25 @@
-price = 9.99
-print(price)
+# Scope - refers to the visibility / accessibility of variables
+sum = 45
 
-def x():
-    global items
-    print(price)
-x()
-items = 45
-print(items)
+def add_two(x,y):
+    global sum
+    print(sum)
+    sum = x + y
+    print (sum)
 
-def outer():
-    name = "User"
-    print(name)
-    def inner():
-        nonlocal name # makes variable belong to the outer function
-        name = "Admin"
-    inner()
-    return name
+add_two(1,2)
+print("=================================================================")
+# Using nonlocal
+def counter():
+    count = 0
+    
+    def increment():
+        nonlocal count
+        count += 1
+        return count
+    
+    return increment
 
-print(outer())
+c = counter()
+print(c())
+print(c())
