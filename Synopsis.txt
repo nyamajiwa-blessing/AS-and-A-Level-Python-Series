@@ -31,3 +31,4 @@
 31. String Formatting
 32. File Handling
 33. List Comprehensions
+34. Super Keyword
